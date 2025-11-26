@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Marcos 👋
 
-<!--
-**Marcossousadev/Marcossousadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.js e React**, mas também atuo com **Laravel e bancos relacionais**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Skills
+
+### Front-end
+[![JS](https://skillicons.dev/icons?i=js)](https://www.javascript.com/) 
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+
+### Back-end
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Fastify](https://skillicons.dev/icons?i=fastify)](https://www.fastify.io/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+
+### Bancos de Dados
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
