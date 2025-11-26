@@ -35,7 +35,7 @@ Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.
     <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
   </a>
   <a href="https://www.fastify.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/24939410?s=160&v=4" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40"/>
