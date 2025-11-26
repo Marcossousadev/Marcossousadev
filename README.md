@@ -29,9 +29,8 @@ Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.
 <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
 </div>
 
-### Ferramentas e Dev
+### Controle de Versão
 <div style="display: flex; flex-direction: row;">
 <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=dev" width="40" height="40"/>
 </div>
 
