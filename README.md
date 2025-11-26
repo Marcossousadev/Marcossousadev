@@ -55,6 +55,11 @@ Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.
   </a>
 </div>
 
+## 📈 GitHub Activity
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Marcossousadev&theme=react-dark)
+
+
 ### Controle de Versão
 <div style="display: flex; flex-direction: row; gap: 10px;">
   <a href="https://git-scm.com/" target="_blank">
