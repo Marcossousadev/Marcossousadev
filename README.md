@@ -32,7 +32,7 @@ Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.
     <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React Native"/>
 </a>
 <a href="https://docs.expo.dev/" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s=w480-h960" width="40" height="40" alt="Expo Go"/>
+    <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s=w480-h960" width="40" height="40" alt="Expo Go" style="border-radius: 10px;"/>
 </a>
 </div>
 
