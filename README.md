@@ -18,8 +18,7 @@ Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.
 <div style="display: flex; flex-direction: row;">
 <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
-<!-- Fastify não tem ícone direto, usando Node.js como substituto -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/24939410?s=160&v=4" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40"/>
 </div>
 
