@@ -13,8 +13,8 @@ Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.
 <img src="https://skillicons.dev/icons?i=vue" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
 </div>
-### Back-end
 
+### Back-end
 <div style="display: flex; flex-direction: row;">
 <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
