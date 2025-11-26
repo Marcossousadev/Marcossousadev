@@ -6,7 +6,9 @@ Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.
 
 ### Front-end
 <div style="display: flex; flex-direction: row;">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
 <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
+  </a>
 <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
