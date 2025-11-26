@@ -26,6 +26,18 @@ Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.
   </a>
 </div>
 
+### Mobile
+<div style="display: flex; flex-direction: row; gap: 10px;">
+<a href="https://reactnative.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React Native"/>
+</a>
+<a href="https://docs.expo.dev/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Expo_Logo.png" width="40" height="40" alt="Expo Go"/>
+</a>
+</div>
+
+
+
 ### Back-end
 <div style="display: flex; flex-direction: row; gap: 10px;">
   <a href="https://nodejs.org/" target="_blank">
