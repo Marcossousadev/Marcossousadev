@@ -17,6 +17,7 @@ Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.
 ### Back-end
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Fastify](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)](https://www.fastify.io/)
 [![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
 
 ### Bancos de Dados
