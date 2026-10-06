@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc0.uidownload.com%2Fpngpics%2F1341%2F2775%2Fexpress-js-logo-node-js-web-framework-mongodb-database-icon-simple-express-branding-technology-stack-symbols-software-development-tools-backend-server-solutions.png&f=1&nofb=1&ipt=d6d32b018b18aefd7c2959ddad0afee6eea4e5b9ff7f3ce532d2817616b4be83&ipo=images" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
