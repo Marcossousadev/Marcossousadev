@@ -24,6 +24,9 @@ Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
   </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
+  </a>
 </div>
 
 ### Mobile
