@@ -24,9 +24,6 @@ Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-  </a>
 </div>
 
 ### Mobile
@@ -55,6 +52,10 @@ Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.
   <a href="https://laravel.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40"/>
   </a>
+    <a href="https://www.oracle.com/java/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="45"/></a>
 </div>
 
 ### Bancos de Dados
