@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F754%2F29%2Fpng-transparent-tailwindcss-hd-logo.png&f=1&nofb=1&ipt=566c1b59447af2832db2ffeee8b2a2293b1c89af80e1a9d997c2b49d8ea2bfda&ipo=images" height="30" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
