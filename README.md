@@ -1,80 +1,68 @@
-# Olá, eu sou Marcos 👋
+<h1 data-importer="text" align="left">Olá 👋! Meu nome é Marcos Antonio, sou Desenvolvedor Full Stack 💻</h1>
 
-Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.js e React**, mas também atuo com **Laravel e bancos relacionais**.
+###
 
-## 🛠️ Tecnologias e Skills
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/Marcossousadev/Marcossousadev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Marcossousadev/Marcossousadev/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### Front-end
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/>
+###
+
+<img data-importer="image" align="right" height="150" src="https://tbbpbsgnsnyqtixrsfbi.supabase.co/storage/v1/object/public/images/Midnight%20Coder_%20Discipline%20and%20Power.png"  />
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.instagram.com/marcossousadev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="45" height="45"/>
+  <a href="marcos.a.sousa.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=marcos.a.sousa.dev@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" width="45" height="45"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="45" height="45"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vue" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/>
+  <a href="https://www.linkedin.com/in/marcos-antonio-de-sousa-sampaio-00a97a29a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-### Mobile
-<div style="display: flex; flex-direction: row; gap: 10px;">
-<a href="https://reactnative.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React Native"/>
-</a>
-<a href="https://docs.expo.dev/" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s=w480-h960" width="45" height="45" alt="Expo Go" style="border-radius: 15px;"/>
-</a>
-</div>
+###
 
+<br clear="both">
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/Marcossousadev/Marcossousadev/snake-output/snake.svg" alt="Snake animation" />
 
-### Back-end
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" width="45" height="45"/>
-  </a>
-  <a href="https://www.fastify.io/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/24939410?s=160&v=4" width="45" height="45"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45"/>
-  </a>
-    <a href="https://www.oracle.com/java/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" width="45" height="45"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="45"/></a>
-</div>
-
-### Bancos de Dados
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/>
-  </a>
-</div>
-
-
-### Controle de Versão
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/>
-  </a>
-</div>
+###
