@@ -1,79 +1,61 @@
-# Olá, eu sou Marcos 👋
+# 👋 Olá, eu sou Marcos
 
-Sou desenvolvedor full-stack, trabalhando principalmente com **JavaScript, Node.js e React**, mas também atuo com **Laravel e bancos relacionais**.
+💻 **Desenvolvedor Full-Stack**
 
-## 🛠️ Tecnologias e Skills
+Desenvolvedor focado na construção de aplicações web e APIs, trabalhando principalmente com **JavaScript, Node.js, React e Java**.
 
-### Front-end
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vue" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
-  </a>
-</div>
+Atualmente estou aprofundando meus conhecimentos em **Java, Spring Boot, APIs REST e desenvolvimento back-end**, além de continuar trabalhando com o ecossistema JavaScript.
 
-### Mobile
-<div style="display: flex; flex-direction: row; gap: 10px;">
-<a href="https://reactnative.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React Native"/>
+---
+
+## 🚀 Tecnologias
+
+### 🎨 Front-end
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45"/></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45"/></a> <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a> <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" width="45"/></a> <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/></a>
+
+### ⚙️ Back-end
+
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/></a> <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45"/></a> <a href="https://www.fastify.io/"><img src="https://skillicons.dev/icons?i=fastify" width="45"/></a> <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" width="45"/></a> <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="45"/></a> <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" width="45"/></a>
+
+### 📱 Mobile
+
+<a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a> <a href="https://docs.expo.dev/"><img src="https://skillicons.dev/icons?i=expo" width="45"/></a>
+
+### 🗄️ Bancos de Dados
+
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45"/></a> <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></a> <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></a>
+
+### 🔧 Ferramentas
+
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45"/></a> <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45"/></a> <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45"/></a>
+
+---
+
+## 📚 Atualmente estudando
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🔗 APIs REST
+* 🗄️ JPA / Hibernate
+* 🏗️ Arquitetura e desenvolvimento de APIs
+* 🧩 Boas práticas de desenvolvimento
+
+---
+
+## 💼 Sobre mim
+
+Gosto de transformar ideias em aplicações funcionais, trabalhando tanto no **front-end quanto no back-end**.
+
+Tenho experiência com desenvolvimento de aplicações, APIs, bancos de dados e integração entre sistemas, e atualmente estou expandindo minha atuação no ecossistema **Java + Spring Boot**.
+
+---
+
+## 📫 Contato
+
+<a href="https://github.com/Marcossousadev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://docs.expo.dev/" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s=w480-h960" width="40" height="40" alt="Expo Go" style="border-radius: 15px;"/>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</div>
-
-
-
-### Back-end
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/>
-  </a>
-  <a href="https://www.fastify.io/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/24939410?s=160&v=4" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40"/>
-  </a>
-</div>
-
-### Bancos de Dados
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
-  </a>
-</div>
-
-
-### Controle de Versão
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
-  </a>
-</div>
