@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="stats" align="left">
-
+  <img src="https://raw.githubusercontent.com/Marcossousadev/Marcossousadev/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/Marcossousadev/Marcossousadev/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
